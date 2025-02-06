@@ -5,9 +5,7 @@ categories: media
 mathjax: true
 ---
 
-![](https://github.com/dashspandan/dashspandan.github.io/blob/master/dash.jpg =200x200)
-
-<img src="https://github.com/dashspandan/dashspandan.github.io/blob/master/dash.jpg" width="200" height="200" />
+<img src="https://github.com/dashspandan/dashspandan.github.io/blob/master/dash.jpg" width="100" height="200" />
 
 I am a PhD student in Physics in the Astronomy and Astrophysics group at University of Warwick. My supervisor is Dr. Matteo Brogi (currently at University of Turin). My research involves working with high resolution spectroscopic transmission and emission data of exoplanet atmospheres. I also work on simulation of transmission and emission observations of exoplanet atmospheres at high spectral resolution (R>25,000) using current and next generation ground-based spectrographs in order to quantify the observability of specific molecular signatures in their atmospheres.
 
