@@ -5,9 +5,9 @@ categories: media
 mathjax: true
 ---
 
-<img src="https://raw.githubusercontent.com/dashspandan/dashspandan.github.io/refs/heads/master/dash.jpg" align="centre" margin="50" width="150" height="187.5"/> 
+<img src="https://raw.githubusercontent.com/dashspandan/dashspandan.github.io/refs/heads/master/dash.jpg" display="block" margin="auto" width="150" height="187.5"/> 
 
-I am a PhD student in Physics in the Astronomy and Astrophysics group at University of Warwick. My supervisor is Dr. Matteo Brogi (currently at University of Turin). My research involves working with high resolution spectroscopic transmission and emission data of exoplanet atmospheres. I also work on simulation of transmission and emission observations of exoplanet atmospheres at high spectral resolution (R>25,000) using current and next generation ground-based spectrographs in order to quantify the observability of specific molecular signatures in their atmospheres.|
+I am a PhD student in Physics in the Astronomy and Astrophysics group at University of Warwick. My supervisor is Dr. Matteo Brogi (currently at University of Turin). My research involves working with high resolution spectroscopic transmission and emission data of exoplanet atmospheres. I also work on simulation of transmission and emission observations of exoplanet atmospheres at high spectral resolution (R>25,000) using current and next generation ground-based spectrographs in order to quantify the observability of specific molecular signatures in their atmospheres.
 
 I have a Master of Science in Astronomy (Research) degree from Leiden University, The Netherlands. I completed my 4 year Bachelor of Science in Physics from Indian Institute of Science, Bangalore in Karnataka, India. I completed my Senior Secondary (High) schooling from DAV Public School, Chandrasekharpur, Bhubaneswar, India and my Secondary Schooling (Matriculation) from Modern Public School, Meghadambaru, Kuruda, Balasore.
 
