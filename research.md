@@ -1,6 +1,6 @@
 ---
-layout = page
-title = "Research, CV, and Articles"
+layout: page
+title: "Research, CV, and Articles"
 categories: media
 mathjax: true
 ---
