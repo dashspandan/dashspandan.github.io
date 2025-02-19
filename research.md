@@ -5,7 +5,7 @@ categories: media
 mathjax: true
 ---
 
-#### [Click here for my full CV](CV_updated_SDash.pdf)
+#### [Click here for my full CV](CV_mod.pdf)
 
 ## Research Projects in chronological order:
 1. PhD work on characterizing exoplanet atmospheres using high resolution spectroscopy in the group of Dr. Matteo Brogi at University of Warwick.
