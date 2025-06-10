@@ -20,7 +20,8 @@ mathjax: true
 
 
 ## Papers:
-1. [Paper introducing my high resolution cross correlation analysis pipeline (Upamana) and its application on 2 nights of CARMENES transmission data to place constraints on water vapour abundance and cloud deck pressure level in the atmosphere of the warm sub-Neptune GJ 3470b](https://academic.oup.com/mnras/article/530/3/3100/7644361), [arxiv link](https://arxiv.org/abs/2404.06648)
+1. [paper introducing my night simulator (Ratri) which can synthesise nights of observations using four current ground-based high-resolution spectrographs, and its coupling with Upamana to detect and differentiate the diverse possible oxygen fugacity regimes on the magma ocean exoplanet 55 Cnc e](https://academic.oup.com/mnras/article/538/4/3042/8099933), [arxiv link](https://arxiv.org/abs/2503.15196)
+2. [Paper introducing my high resolution cross correlation analysis pipeline (Upamana) and its application on 2 nights of CARMENES transmission data to place constraints on water vapour abundance and cloud deck pressure level in the atmosphere of the warm sub-Neptune GJ 3470b](https://academic.oup.com/mnras/article/530/3/3100/7644361), [arxiv link](https://arxiv.org/abs/2404.06648)
 3. [Paper on connecting exoplanet atmosphere spectroscopy to formation locations](https://iopscience.iop.org/article/10.3847/1538-4357/ac67f0), [arXiv link](https://arxiv.org/abs/2204.04103)
 4. [Paper on planet formation](http://dx.doi.org/10.1093/mnras/staa3041), [arXiv link](http://arxiv.org/abs/2009.14228)
 5. [Paper on exoplanet atmospheric loss](https://academic.oup.com/mnras/article-abstract/477/1/808/4951609), [arXiv link](https://arxiv.org/abs/1803.08684)
